@@ -1,0 +1,1 @@
+Inside this repository, I showcase my skills in solving Time Series problems. I compare an AutoARIMA model with an ARIMA model using indicators like RMSE, MSE, and MAE for evaluation. Explore the code to see how I approach and evaluate Time Series forecasting with practical examples.
